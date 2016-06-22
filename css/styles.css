@@ -21,7 +21,7 @@ img#arrow {
 	background-color: lightgray;
 	border-radius: 100%;
 	margin: auto;
-	margin-top: -64px;
+	margin-top: -90px;
 	margin-bottom: -16px;
 }
 
@@ -36,25 +36,6 @@ img.circleImg {
 	margin: auto;
 	margin-top: -128px;
 	margin-left: 256px;
-	background-image: url("../assets/background.jpg");
-	background-color: aqua;
-}
-
-h1, h2, h3, h4, h5, h6, p, li {
-	font-family: "Arial";
-	color: black;
-	margin: 10px;
-}
-
-#wrapper {
-	background-color: orange;
-	margin: 8%;
-	padding: 10px;
-}
-
-#name {
-	text-align: right;
-	float: right;
 	background-color: white;
 	width: 128px;
 	height: 128px;
@@ -105,14 +86,4 @@ h2.title {
 	margin-top: 0px;
 	margin: auto;
 	padding-top: 32px;
-}
-
-.rainbowBit {
-	margin: 10px;
-}
-
-#rRed {
-	border-radius: 100%;
-	width: 128;
-	height: 128;
 }
