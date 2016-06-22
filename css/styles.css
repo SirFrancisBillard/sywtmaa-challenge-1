@@ -1,0 +1,121 @@
+body {
+<<<<<<< HEAD
+	background-color: aquamarine;
+	text-align: center;
+}
+
+img.inCircle {
+	width: 128px;
+	height: 128px;
+	border-radius: 100%;
+}
+
+img#arrow {
+	width: 32px;
+	height: 32px;
+	border-radius: 100%;
+}
+
+#arrowImage {
+	width: 50px;
+	height: 50px;
+	background-color: lightgray;
+	border-radius: 100%;
+	margin: auto;
+	margin-top: -64px;
+	margin-bottom: -16px;
+}
+
+img.circleImg {
+	width: 128px;
+	height: 128px;
+	border-radius: 100%;
+}
+
+#circle1 {
+	border-radius: 100%;
+	margin: auto;
+	margin-top: -128px;
+	margin-left: 256px;
+=======
+	background-image: url("../assets/background.jpg");
+	background-color: aqua;
+}
+
+h1, h2, h3, h4, h5, h6, p, li {
+	font-family: "Arial";
+	color: black;
+	margin: 10px;
+}
+
+#wrapper {
+	background-color: orange;
+	margin: 8%;
+	padding: 10px;
+}
+
+#name {
+	text-align: right;
+	float: right;
+>>>>>>> origin/master
+	background-color: white;
+	width: 128px;
+	height: 128px;
+}
+
+#circle2 {
+	border-radius: 100%;
+	margin: auto;
+	background-color: white;
+	width: 128px;
+	height: 128px;
+}
+
+#circle3 {
+	border-radius: 100%;
+	margin: auto;
+	margin-top: -128px;
+	margin-right: 256px;
+	background-color: white;
+	width: 128px;
+	height: 128px;
+}
+
+h1.title {
+	font-family: "Times New Roman";
+	color: white;
+	text-align: center;
+	margin: 32px;
+}
+
+h2.title {
+	font-family: "Times New Roman";
+	color: white;
+	text-align: center;
+	margin-bottom: -8px;
+	margin: 32px;
+}
+
+#fakeWrapper {
+	background-color: white;
+	margin: auto;
+	margin-top: 32px;
+	margin-bottom: 0px;
+	height: 25px;
+}
+#wrapper {
+	background-color: white;
+	margin-top: 0px;
+	margin: auto;
+	padding-top: 32px;
+}
+
+.rainbowBit {
+	margin: 10px;
+}
+
+#rRed {
+	border-radius: 100%;
+	width: 128;
+	height: 128;
+}
