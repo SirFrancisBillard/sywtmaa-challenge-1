@@ -1,5 +1,4 @@
 body {
-<<<<<<< HEAD
 	background-color: aquamarine;
 	text-align: center;
 }
@@ -37,7 +36,6 @@ img.circleImg {
 	margin: auto;
 	margin-top: -128px;
 	margin-left: 256px;
-=======
 	background-image: url("../assets/background.jpg");
 	background-color: aqua;
 }
@@ -57,7 +55,6 @@ h1, h2, h3, h4, h5, h6, p, li {
 #name {
 	text-align: right;
 	float: right;
->>>>>>> origin/master
 	background-color: white;
 	width: 128px;
 	height: 128px;
